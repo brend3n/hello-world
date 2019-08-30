@@ -1,6 +1,8 @@
 # hello-world
 This is a repo for Object Oriented Programming Academic Activity
 ----------------------------------------------------------------
+This change is best viewed RAW
+----------------------------------------------------------------
 Hi Professor, I thought you may like this ASCII illustration of Shrek that I found online.
                       _____
                    ,-'     `._
